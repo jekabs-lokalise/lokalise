@@ -1,0 +1,43 @@
+{
+    "Log_In": "Se connecter",
+    "Password": "Mot de passe",
+    "Log_in_with_SSO": "Se connecter avec SSO",
+    "Username": "Nom d'utilisateur",
+    "Try_it_free": "Essai gratuit",
+    "Book_a_demo": "Réserver une démonstration",
+    "Looking_to_join_an_existing_team_instead?_Log_In": "Vous souhaitez plutôt rejoindre une équipe existante ? Connectez-vous",
+    "Sign_Up": "S'inscrire",
+    "john@better.com": "john@better.com",
+    "Connect_with_more_than_1_000_apps": "Se connecter à plus de 1 000 applications",
+    "Try_all_features_for_14_days_·_No_credit_card_required": "Essayez toutes les fonctionnalités pendant 14 jours - Pas de carte de crédit requise",
+    "Log_In_with_Google": "Connectez-vous avec Google",
+    "Our_goal_is_to_eliminate_the_hassle_of_localization_by_providing_tools_to_automate__integrate_and_better_manage_your_translations._Lokalise_is_a_better_way_for_growth-minded_businesses_to_expand_their": "Notre objectif est d'éliminer les tracas de la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est un meilleur moyen pour les entreprises axées sur la croissance d'étendre leurs applications mobiles, leurs jeux, leurs logiciels ou leur contenu numérique\n plusieurs langues.",
+    "Better": "Mieux",
+    "Sign_Up_with_Google": "Inscription via Google",
+    "Whether_it’s_your_cloud_file_storage__task_management_or_communication_tools,_integrate_Lokalise_with_thousands_of_other_apps_on_Zapier_to_automate_your_workflow.": "Qu'il s'agisse de votre stockage de fichiers sur le cloud, de votre gestion des tâches ou de vos outils de communication, intégrez Lokalise à des milliers d'autres applications sur Zapier pour automatiser votre flux de travail.",
+    "Full_name": "Nom et prénom",
+    "better@lokalise.com": "mieux@lokalise.com",
+    "Lokalise_integration__for_Zapier": "Intégration de Lokalise dans Zapier",
+    "Meet_Lokalise": "Rencontrer Lokalise",
+    "By_signing_up__you_accept_our_Terms_of_Service_and_Privacy_Policy.": "En vous inscrivant, vous acceptez nos <u> Conditions d'utilisation <\/u> et <u> Politique de confidentialité <\/u> .",
+    "E-mail": "E-mail",
+    "menu": {
+        "home": "Maison",
+        "about": "À propos",
+        "privacy": "politique de confidentialité"
+    },
+    "main": {
+        "welcome": "Bonjour de Lokalise !",
+        "about": "À propos de nous",
+        "new_message": "aucun message | un message | {count} messages",
+        "tms": "Lokalise est un TMS",
+        "g2": "Lisez à propos de nous sur G2",
+        "get2know": "Apprenez à mieux connaître Lokalise",
+        "get2know_message": "Notre objectif est d'éliminer les tracas de la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est un meilleur moyen pour les entreprises axées sur la croissance d'étendre leurs applications mobiles, leurs jeux, leurs logiciels ou leur contenu numérique\n plusieurs langues.",
+        "sign-in": "Connectez-vous avec Google",
+        "register-button": "Registre"
+    },
+    "about": {
+        "welcome": "Bienvenue sur la page À propos !"
+    }
+}

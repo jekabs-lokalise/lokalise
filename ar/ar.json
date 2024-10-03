@@ -1,0 +1,43 @@
+{
+    "Log_In": "تسجيل الدخول",
+    "Password": "كلمة المرور",
+    "Log_in_with_SSO": "تسجيل الدخول باستخدام SSO",
+    "Username": "اسم المستخدم",
+    "Try_it_free": "جربه مجاناً",
+    "Book_a_demo": "احجز عرضاً تجريبياً",
+    "Looking_to_join_an_existing_team_instead?_Log_In": "هل تبحث عن الانضمام إلى فريق حالي بدلاً من ذلك؟ تسجيل الدخول",
+    "Sign_Up": "التسجيل",
+    "john@better.com": "john@better.com",
+    "Connect_with_more_than_1_000_apps": "تواصل مع أكثر من 1,000 تطبيق",
+    "Try_all_features_for_14_days_·_No_credit_card_required": "جرب جميع الميزات لمدة 14 يوماً - لا حاجة لبطاقة ائتمان",
+    "Log_In_with_Google": "تسجيل الدخول باستخدام Google",
+    "Our_goal_is_to_eliminate_the_hassle_of_localization_by_providing_tools_to_automate__integrate_and_better_manage_your_translations._Lokalise_is_a_better_way_for_growth-minded_businesses_to_expand_their": "هدفنا هو التخلص من متاعب التوطين من خلال توفير أدوات لأتمتة الترجمات ودمجها وإدارتها بشكل أفضل. Lokalise هي طريقة أفضل للشركات التي تسعى للنمو لتوسيع نطاق تطبيقاتها على الأجهزة المحمولة، أو الألعاب، أو البرامج أو المحتوى الرقمي إلى لغات متعددة.",
+    "Better": "أفضل",
+    "Sign_Up_with_Google": "التسجيل في جوجل",
+    "Whether_it’s_your_cloud_file_storage__task_management_or_communication_tools,_integrate_Lokalise_with_thousands_of_other_apps_on_Zapier_to_automate_your_workflow.": "سواء كان تخزين الملفات السحابية أو إدارة المهام أو أدوات الاتصال، يمكنك دمج Lokalise مع آلاف التطبيقات الأخرى على Zapier لأتمتة سير عملك.",
+    "Full_name": "الاسم الكامل",
+    "better@lokalise.com": "better@lokalise.com",
+    "Lokalise_integration__for_Zapier": "تكامل Lokalise مع Zapier",
+    "Meet_Lokalise": "تعرّف على لوكاليس",
+    "By_signing_up__you_accept_our_Terms_of_Service_and_Privacy_Policy.": "بالتسجيل، فإنك توافق على <u>شروط الخدمة<\/u> و <u>سياسة الخصوصية<\/u>.",
+    "E-mail": "البريد الإلكتروني",
+    "menu": {
+        "home": "الصفحة الرئيسية",
+        "about": "نبذة عن",
+        "privacy": "سياسة الخصوصية"
+    },
+    "main": {
+        "welcome": "مرحباً من لوكاليس!",
+        "about": "نبذة عنا",
+        "new_message": "لا توجد رسائل | رسالة واحدة | {count} الرسائل",
+        "tms": "لوكاليس هو TMS",
+        "g2": "اقرأ عنا على G2",
+        "get2know": "تعرّف على لوكاليس بشكل أفضل",
+        "get2know_message": "يتمثل هدفنا في التخلص من متاعب التوطين من خلال توفير أدوات لأتمتة ودمج وإدارة ترجماتك بشكل أفضل. Lokalise هي طريقة أفضل للشركات التي تتطلع إلى النمو لتوسيع نطاق تطبيقاتها للأجهزة المحمولة أو ألعابها أو برامجها أو محتواها الرقمي إلى \n لغات متعددة.",
+        "sign-in": "تسجيل الدخول باستخدام Google",
+        "register-button": "التسجيل"
+    },
+    "about": {
+        "welcome": "مرحباً بك في صفحة \"حول\"!"
+    }
+}
