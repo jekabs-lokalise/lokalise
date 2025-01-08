@@ -1,0 +1,21 @@
+{
+    "menu": {
+        "home": "Sākums",
+        "about": "Par",
+        "privacy": "Privātuma politika"
+    },
+    "main": {
+        "welcome": "Sveiki no Lokālises!",
+        "about": "Par mums",
+        "new_message": "nav ziņojumu | viena ziņa | {count} ziņojumi",
+        "tms": "Lokalise ir TMS",
+        "g2": "Lasiet par mums vietnē G2",
+        "get2know": "Iepazīstieties tuvāk Lokalise",
+        "get2know_message": "Mūsu mērķis ir novērst lokalizācijas problēmas, nodrošinot rīkus, lai automatizētu, integrētu un labāk pārvaldītu jūsu tulkojumus. Lokalise ir labāks veids, kā uz izaugsmi orientētiem uzņēmumiem paplašināt savas mobilās lietotnes, spēles, programmatūru vai digitālo saturu\n vairākas valodas.",
+        "sign-in": "Pierakstieties ar Google",
+        "register-button": "Reģistrēties"
+    },
+    "about": {
+        "welcome": "Laipni lūdzam lapā Par!"
+    }
+}
