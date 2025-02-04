@@ -1,0 +1,21 @@
+{
+    "menu": {
+        "home": "Accueil",
+        "about": "À propos",
+        "privacy": "Politique de confidentialité"
+    },
+    "main": {
+        "welcome": "Bonjour de Lokalise!",
+        "about": "À propos de nous",
+        "new_message": "aucun message | un message | {count} messages",
+        "tms": "Lokalise est un TMS",
+        "g2": "Lisez à notre sujet sur G2",
+        "get2know": "Apprenez à mieux connaître Lokalise",
+        "get2know_message": "Notre objectif est d'éliminer les tracas de la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est une meilleure solution pour les entreprises axées sur la croissance qui souhaitent étendre leurs applications mobiles, jeux, logiciels ou contenus numériques à plusieurs langues.",
+        "sign-in": "Connexion avec Google",
+        "register-button": "S'inscrire"
+    },
+    "about": {
+        "welcome": "Bienvenue sur la page À propos !"
+    }
+}
