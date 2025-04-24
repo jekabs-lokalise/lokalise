@@ -1,0 +1,49 @@
+{
+    "menu": {
+        "home": "Inicio",
+        "about": "Acerca de",
+        "privacy": "Política de Privacidad"
+    },
+    "main": {
+        "welcome": "¡Hola desde Lokalise!",
+        "about": "Sobre nosotros",
+        "new_message": "sin mensajes | un mensaje | {count} mensajes",
+        "tms": "Lokalise es un TMS",
+        "g2": "Lea sobre nosotros en G2",
+        "get2know": "Conoce mejor a Lokalise",
+        "get2know_message": "Nuestro objetivo es eliminar las complicaciones de la localización proporcionando herramientas para automatizar, integrar y gestionar mejor tus traducciones. Lokalise es una mejor manera para que las empresas orientadas al crecimiento expandan sus aplicaciones móviles, juegos, software o contenido digital a múltiples idiomas.",
+        "sign-in": "Iniciar sesión con Google",
+        "register-button": "Registrar"
+    },
+    "about": {
+        "welcome": "¡Bienvenido a la página Acerca de!"
+    },
+    "log_in": "Iniciar sesión",
+    "password": "Contraseña",
+    "log_in_with_sso": "Iniciar sesión con SSO",
+    "username": "Nombre de usuario",
+    "password.79": "Contraseña",
+    "try_it_free": "Pruébalo gratis",
+    "book_a_demo": "Reserva una demostración",
+    "log_in.79": "Iniciar sesión",
+    "sign_up": "Inscribirse",
+    "looking_to_join_an_existing_team_instead?_log_in": "¿Prefieres unirte a un equipo existente? Inicia sesión",
+    "john@better.com": "john@better.com",
+    "connect_with_more_than_1_000_apps": "Conéctate con más de 1,000 aplicaciones",
+    "try_all_features_for_14_days_·_no_credit_card_required": "Prueba todas las funciones durante 14 días · No se requiere tarjeta de crédito",
+    "log_in_with_google": "Iniciar sesión con Google",
+    "or_sign_up_with_your_email": "O regístrate con tu correo electrónico ",
+    "our_goal_is_to_eliminate_the_hassle_of_localization_by_providing_tools_to_automate__integrate_and_better_manage_your_translations._lokalise_is_a_better_way_for_growth-minded_businesses_to_expand_their": "Nuestro objetivo es eliminar las complicaciones de la localización proporcionando herramientas para automatizar, integrar y gestionar mejor tus traducciones. Lokalise es una mejor manera para que las empresas orientadas al crecimiento expandan sus aplicaciones móviles, juegos, software o contenido digital a múltiples idiomas.",
+    "better": "Mejor",
+    "log_in.74": "Iniciar sesión",
+    "sign_up_with_google": "Regístrate con Google\n",
+    "whether_it’s_your_cloud_file_storage__task_management_or_communication_tools,_integrate_lokalise_with_thousands_of_other_apps_on_zapier_to_automate_your_workflow.": "Ya sea tu almacenamiento de archivos en la nube, gestión de tareas o herramientas de comunicación, integra Lokalise con miles de otras aplicaciones en Zapier para automatizar tu flujo de trabajo.",
+    "meet_lokalise": "Conoce Lokalise",
+    "lokalise_integration__for_zapier": "Integración de Lokalise para Zapier",
+    "better@lokalise.com": "better@lokalise.com",
+    "full_name": "Nombre completo",
+    "sign_up.47": "Inscribirse",
+    "sign_up.35": "Inscribirse",
+    "by_signing_up__you_accept_our_terms_of_service_and_privacy_policy.": "Al registrarte, aceptas nuestros <u>Términos de servicio<\/u> y <u>Política de privacidad<\/u>.",
+    "e-mail": "Correo electrónico"
+}
